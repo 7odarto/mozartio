@@ -1,3 +1,3 @@
 # mozartio
 
-$$\\\\\\<style>div{background-color:\u002366f3e6}</style>{}$$
+$$\\\\\\<style>body{padding:50px;background-color:\u0023/u4b6bb7;}\</style>{}$$
